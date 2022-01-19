@@ -151,4 +151,5 @@ Event website (MIAMI, December 2021): https://www.dcentralcon.com
 * DineroDom
 * CoolBeans
 * Parkerchong
+* Riri Tee
 * ADD YOUR NAME ABOVE HERE
